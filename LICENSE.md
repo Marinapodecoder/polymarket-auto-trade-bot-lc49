@@ -1,4 +1,4 @@
-# 
+# custom Polymarket Strategy | smart-contract-integration + stop-loss-management is the best Polymarket strategy, featuring smart-contract-integration and stop-loss-management.
 
 
 
